@@ -1,0 +1,7 @@
+class Frame < ApplicationRecord
+	after_save :calculate_score
+
+	def calculate_score
+	
+	end
+end

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  frame_number: 1
+  roll: 1
+  fallen_pins: 1
+  frame_score: 1
+  temp_frame_score: 1
+  state: MyString
+  player: one
+
+two:
+  frame_number: 1
+  roll: 1
+  fallen_pins: 1
+  frame_score: 1
+  temp_frame_score: 1
+  state: MyString
+  player: two
